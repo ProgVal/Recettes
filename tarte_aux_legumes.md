@@ -25,3 +25,8 @@ indiqué ci-dessus.
 Faire en sorte que le tout soit recouvert de gorgonzola.
 
 Faire cuire au four à 240°C pendant une demi-heure.
+
+
+# Alternatives à explorer
+
+Pommes de terre, ognon
