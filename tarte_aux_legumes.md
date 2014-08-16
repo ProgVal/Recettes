@@ -1,9 +1,11 @@
-# Matériel
+# Tarte aux légumes
+
+## Matériel
 
 * Four ou mini-four
 * Moule à tarte
 
-# Ingrédients
+## Ingrédients
 
 1. Pate à pizza
 2. Purée/coulis de tomates (ou tomates fraiches suées)
@@ -11,11 +13,11 @@
 4. Carottes rapées
 5. Courgettes
 6. Poivron (vert, par exemple)
-7. Champignon
+7. Champignons
 8. Gorgonzola
 9. Olives
 
-# Préparation
+## Préparation
 
 Couper les courgettes en rondelles d’environ un demi centimètre d’épaisseur.
 
