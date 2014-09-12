@@ -20,6 +20,8 @@
 ## Préparation
 
 Couper les courgettes en rondelles d’environ un demi centimètre d’épaisseur.
+Les faire revenir à la poêle quelques minutes jusqu’à ce qu’elles commencent
+à dorer.
 
 Mettre la pate dans le moule, y ajouter les ingrédients dans l’ordre
 indiqué ci-dessus.
